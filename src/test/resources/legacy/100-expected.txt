@@ -1,0 +1,133 @@
+Alex was added
+They are player number 1
+Mehdi was added
+They are player number 2
+Alex is the current player
+They have rolled a 1
+Alex's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Alex now has 1 Gold Coins.
+Mehdi is the current player
+They have rolled a 5
+Mehdi's new location is 5
+The category is Science
+Science Question 1
+Question was incorrectly answered
+Mehdi was sent to the penalty box
+Alex is the current player
+They have rolled a 2
+Alex's new location is 3
+The category is Rock
+Rock Question 0
+Answer was corrent!!!!
+Alex now has 2 Gold Coins.
+Mehdi is the current player
+They have rolled a 2
+Mehdi is not getting out of the penalty box
+Question was incorrectly answered
+Mehdi was sent to the penalty box
+Alex is the current player
+They have rolled a 4
+Alex's new location is 7
+The category is Rock
+Rock Question 1
+Answer was corrent!!!!
+Alex now has 3 Gold Coins.
+Mehdi is the current player
+They have rolled a 3
+Mehdi is getting out of the penalty box
+Mehdi's new location is 8
+The category is Pop
+Pop Question 0
+Answer was correct!!!!
+Mehdi now has 1 Gold Coins.
+Alex is the current player
+They have rolled a 2
+Alex's new location is 9
+The category is Science
+Science Question 2
+Answer was corrent!!!!
+Alex now has 4 Gold Coins.
+Mehdi is the current player
+They have rolled a 3
+Mehdi is getting out of the penalty box
+Mehdi's new location is 11
+The category is Rock
+Rock Question 2
+Question was incorrectly answered
+Mehdi was sent to the penalty box
+Alex is the current player
+They have rolled a 1
+Alex's new location is 10
+The category is Sports
+Sports Question 0
+Question was incorrectly answered
+Alex was sent to the penalty box
+Mehdi is the current player
+They have rolled a 4
+Mehdi is not getting out of the penalty box
+Question was incorrectly answered
+Mehdi was sent to the penalty box
+Alex is the current player
+They have rolled a 4
+Alex is not getting out of the penalty box
+Mehdi is the current player
+They have rolled a 1
+Mehdi is getting out of the penalty box
+Mehdi's new location is 0
+The category is Pop
+Pop Question 1
+Question was incorrectly answered
+Mehdi was sent to the penalty box
+Alex is the current player
+They have rolled a 3
+Alex is getting out of the penalty box
+Alex's new location is 1
+The category is Science
+Science Question 3
+Answer was correct!!!!
+Alex now has 5 Gold Coins.
+Mehdi is the current player
+They have rolled a 4
+Mehdi is not getting out of the penalty box
+Question was incorrectly answered
+Mehdi was sent to the penalty box
+Alex is the current player
+They have rolled a 1
+Alex is getting out of the penalty box
+Alex's new location is 2
+The category is Sports
+Sports Question 1
+Question was incorrectly answered
+Alex was sent to the penalty box
+Mehdi is the current player
+They have rolled a 5
+Mehdi is getting out of the penalty box
+Mehdi's new location is 5
+The category is Science
+Science Question 4
+Answer was correct!!!!
+Mehdi now has 2 Gold Coins.
+Alex is the current player
+They have rolled a 2
+Alex is not getting out of the penalty box
+Question was incorrectly answered
+Alex was sent to the penalty box
+Mehdi is the current player
+They have rolled a 5
+Mehdi is getting out of the penalty box
+Mehdi's new location is 10
+The category is Sports
+Sports Question 2
+Question was incorrectly answered
+Mehdi was sent to the penalty box
+Alex is the current player
+They have rolled a 3
+Alex is getting out of the penalty box
+Alex's new location is 5
+The category is Science
+Science Question 5
+Answer was correct!!!!
+Alex now has 6 Gold Coins.
