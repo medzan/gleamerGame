@@ -1,11 +1,15 @@
 package com.ezangui.gleamer;
 
 public interface IGame {
-    boolean add(String alex);
+    boolean add(String playerName);
 
     void roll(int dice);
 
-    boolean wrongAnswer();
+    void wrongAnswer();
 
-    boolean wasCorrectlyAnswered();
+    void wasCorrectlyAnswered();
+
+    boolean inProgress();
+
+    void startGame();
 }
